@@ -3,5 +3,5 @@ import ReactDOM from 'react-dom'
 import Component from './component'
 
 ReactDOM.render(    
-    <Component />
+    <Component value="pass me through param!"/>
 , document.getElementById('app'))
