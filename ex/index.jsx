@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
+import Component from './component'
 
 ReactDOM.render(    
-    <h1>Reacting!</h1>
+    <Component />
 , document.getElementById('app'))
